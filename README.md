@@ -1,3 +1,4 @@
 @O_ruanzinn
-@x7.gracii
+jogador
 frio e calculista
+nao e marra postura
